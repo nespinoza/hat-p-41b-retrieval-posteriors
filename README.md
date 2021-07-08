@@ -1,4 +1,4 @@
-# HAT-P-41b two-limb retrievals posterior distributions(Espinoza & Jones, 2021)
+# HAT-P-41b two-limb retrievals posterior distributions (Espinoza & Jones, 2021)
 -------------------
 
 This repository stores posterior samples from the two-limb retrievals performed in Section 4.2 of [Espinoza & Jones (2021)](https://arxiv.org/abs/2106.15687). In particular:
