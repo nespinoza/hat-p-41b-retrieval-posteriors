@@ -1,0 +1,16 @@
+# Simulated JWST transit spectrum for NIRISS/SOSS, Order2, used for the retrievals in Espinoza & Jones (2021). If using this data, please 
+# cite the paper.
+#
+# Column 0: Central wavelength (microns)
+# Column 1: Transit depth (ppm)
+# Column 2: Error on transit depth (ppm)
+#
+#
+# Wav (um)   Transit depth    Error (ppm)
+0.6578900000 10321.6270303219 14.9340059109
+0.7037900000 10302.9560482741 12.7036383882
+0.7496900000 10331.0374970962 12.9619335296
+0.7955900000 10307.6192163097 14.9340059109
+0.8415000000 10357.0858067342 18.0351562777
+0.8873900000 10329.0829489324 21.1132917158
+0.9332900000 10449.8574198753 25.4931045079
